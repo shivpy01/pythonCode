@@ -1,3 +1,6 @@
+'''
+A Simple Paper Scissor RockGame
+'''
 import random
 
 comp_choice = ['rock',"paper",'scissor']
